@@ -1,6 +1,9 @@
 # CSharpExportExcelAsPdf
 C# export excel as pdf without office installed (.net framework 4.5.2)
 
+Get your **free** Apple Stock when sign up & deposit to Tiger Brokers 
+[ClickHere](https://www.tigerbrokers.com.sg/activity/forapp/invitflow-intl/signup.html?template=invite202011&lang=en_US&invite=E9WV2L)
+
 ## Donation
 
 If this project helped you reduce time to develop, please consider buying me a cup of coffee :)
